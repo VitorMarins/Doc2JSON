@@ -1,0 +1,5 @@
+modelo
+.env
+__pycache__
+venv
+input/*
